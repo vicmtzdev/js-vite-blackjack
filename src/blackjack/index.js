@@ -2,6 +2,7 @@ import _ from 'underscore';
 import {crearDeck, pedirCarta, valorCarta, turnoComputadora, crearCartaHTML} from './usecases';
 
 /**
+ * Cards
  * 2C = Two of Clubs
  * 2D = Two of Diamonds
  * 2H = Two of Hearts
